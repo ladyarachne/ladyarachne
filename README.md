@@ -1,24 +1,24 @@
-# 👩🏽‍💻 @ladyarachne
+# @ladyarachne
 
-Hi, I’m Nat — a Computer Science graduate student focused on systems, security, and building things that actually matter.
-
----
-
-## 🧠 What I Do
-
-I like to tinker, experiment, and build tools inspired by real-life problems — not just textbook projects.
+Hi, I’m Nat! I'm a CS grad student focused on systems, security, and building things I find interesting.
 
 ---
 
-## ⚙️ Tech I Work With
+## What I Do:
 
-- Languages: JavaScript, Python, SQL  
+I like to tinker, experiment, and build tools inspired by real-life problems. I find the most innovative projects are inspired by day-to-day experiences.
+
+---
+
+## Tech I Work With:
+
+- Languages: Java, Python, SQL  
 - Tools: React, Electron, Node.js  
 - Concepts: Operating Systems, Networking, Security  
 
 ---
 
-## 🎯 Current Focus
+## Current Focus:
 
 - Deepening my understanding of systems and networking
 - Building practical, real-world applications
@@ -26,7 +26,7 @@ I like to tinker, experiment, and build tools inspired by real-life problems —
 
 ---
 
-## 🔒 Interests
+## Interests:
 
 - System internals & performance  
 - Network protocols & security  
@@ -34,14 +34,13 @@ I like to tinker, experiment, and build tools inspired by real-life problems —
 
 ---
 
-## 📫 Reach Me
+## Reach Me:
 
-- GitHub: you’re already here 👀  
+- GitHub: you’re already here, hi!   
 
 ---
 
-## ⚡ Philosophy
+## Philosophy:
 
-> Build what you wish existed.  
-> Understand it deeply.  
-> Then make it bette
+> Necessity is the mother of invention.  
+
