@@ -1,46 +1,45 @@
 # @ladyarachne
 
-Hi, I’m Nat! I'm a CS grad student focused on systems, security, and building things I find interesting.
+hi, I’m nat! I'm a CS grad student, and i like systems, security, and macOS-based development! 🍏
 
 ---
 
-## What I Do:
+## about me:
 
-I like to tinker, experiment, and build tools inspired by real-life problems. I find the most innovative projects are inspired by day-to-day experiences.
-
----
-
-## Tech I Work With:
-
-- Languages: Java, Python, SQL  
-- Tools: React, Electron, Node.js  
-- Concepts: Operating Systems, Networking, Security  
+i like to tinker, experiment, and build tools inspired by real-life problems. the most innovative projects are inspired by day-to-day experiences.
 
 ---
 
-## Current Focus:
+## my current stack:
 
-- Deepening my understanding of systems and networking
-- Building practical, real-world applications
-- Moving toward security-focused engineering roles
-
----
-
-## Interests:
-
-- System internals & performance  
-- Network protocols & security  
-- Privacy-focused and local-first applications  
+- languages: Java, Python, SQL, Swift  
+- tools: React, Electron, Node.js, SwiftUI  
+- concepts: Operating Systems, Networking, Security  
 
 ---
 
-## Reach Me:
+## what i'm thinking about:
 
-- GitHub: you’re already here, hi!   
+- deepening my understanding of systems and networking
+- building practical, real-world applications
+- moving toward security-focused engineering roles
 
----
 
-## Philosophy:
+## i'm focused on:
 
-> Necessity is the mother of invention.  
+- system internals & performance  
+- network protocols & security  
+- privacy-focused and local-first applications
+- native macOS app development  
+
+
+## you can catch me:
+
+- gitHub: you’re already here, hi!
+- [![linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nathanielle-l-b079b113a/)
+
+
+## mindest and grindset:
+
+> necessity is the mother of invention 🧠✨   
 
