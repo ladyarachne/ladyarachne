@@ -8,15 +8,12 @@ hi, I’m nat! I'm a CS grad student, and i like systems, security, and macOS-ba
 
 i like to tinker, experiment, and build tools inspired by real-life problems. to me, the most innovative projects are inspired by day-to-day experiences.
 
----
 
 ## my current stack:
 
-- languages: Java, Python, SQL, Swift  
-- tools: React, Electron, Node.js, SwiftUI  
-- concepts: Operating Systems, Networking, Security  
-
----
+- languages: java, python, SQL, swift  
+- tools: react, electron, node.js, swiftUI  
+- concepts: unix, networking, security  
 
 ## what i'm thinking about:
 
